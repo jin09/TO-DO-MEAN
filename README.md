@@ -21,3 +21,7 @@ By default the collection used is `tasks`
 If you want to configure mongo settings, edit file 
 
 `sudo vi ./routes/tasks.js`
+
+Run Server
+
+`sudo node server.js`

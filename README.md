@@ -12,9 +12,11 @@ install dependencies
 
 `npm install`
 
-make sure mongodb server is running (127.0.0.1:27017)\n
-By default the database used is Task\n
-By default the collection used is tasks\n
+make sure mongodb server is running (127.0.0.1:27017)
+
+By default the database used is Task
+
+By default the collection used is tasks
 
 If you want to configure mongo settings, edit file 
 
